@@ -48,16 +48,14 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leaf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true&custom_title=Status" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=leaf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true&custom_title=Status" height="130" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leaf&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=react&hide_border=true&custom_title=Linguagens" height="130" alt="languages graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img height="100" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
+  <img height="120" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
 </div>
 
 ###
