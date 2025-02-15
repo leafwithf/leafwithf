@@ -3,8 +3,15 @@
 ###
 
 <br clear="both">
-
-<h4 align="left">👋 Hi! I'm Rafael, a web developer from São José do Rio Preto, Brazil, always learning and growing.<br><br>💻 I enjoy building user-friendly websites, contributing to open-source projects, and listening to music.<br><br>📬 Feel free to connect with me via email or social media!<br><br>Let’s build something amazing together! 🚀</h4>
+<h4 align="left">
+  👋 Hi! I'm Rafael, a web dev from São José do Rio Preto, Brazil, always learning & growing.
+  <br><br>
+  💻 I enjoy building UX-friendly websites, contributing to OSS projects & listening to music.
+  <br><br>
+  📬 Feel free to connect via email or social media!
+  <br><br>
+  🚀 Let’s build something amazing together! 
+</h4>
 
 ###
 
