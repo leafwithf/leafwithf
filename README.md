@@ -16,7 +16,7 @@
 </div>
 
 ###
-<h4 align="left">👋 Hi! I'm Rafael, a web developer from São José do Rio Preto, Brazil, always learning and growing.<br><br>💻 I enjoy building user-friendly websites, contributing to open-source projects, and listening to music.<br><br>📬 Feel free to connect with me via email or social media!<br><br>Let’s build something amazing together! 🚀</h4>
+<h4 align="left">🦖I have a foundational understanding of multiple programming languages and software, continuously expanding my skills and knowledge to improve my development expertise.</h4>
 <br clear="both">
 
 <div align="center">
