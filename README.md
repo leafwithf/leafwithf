@@ -16,7 +16,7 @@
 </div>
 
 ###
-
+<h4 align="left">👋 Hi! I'm Rafael, a web developer from São José do Rio Preto, Brazil, always learning and growing.<br><br>💻 I enjoy building user-friendly websites, contributing to open-source projects, and listening to music.<br><br>📬 Feel free to connect with me via email or social media!<br><br>Let’s build something amazing together! 🚀</h4>
 <br clear="both">
 
 <div align="center">
@@ -47,10 +47,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leaf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=true&custom_title=Status" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leaf&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=react&hide_border=true&custom_title=Linguagens" height="130" alt="languages graph"  />
-</div>
 
 ###
 
