@@ -45,8 +45,6 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
 </div>
 
