@@ -1,9 +1,9 @@
-<img align="left" height="150" src="https://user-images.githubusercontent.com/74038190/213910345-87a0070d-e6be-4864-b0a1-7e2133e3dae2.png"  />
+<img align="center" height="150" src="https://user-images.githubusercontent.com/74038190/213910345-87a0070d-e6be-4864-b0a1-7e2133e3dae2.png"  />
 
 ###
 
 <br clear="both">
-<h4 align="left">
+<h4 align="center">
   👋 Hi! I'm Rafael, a web dev from São José do Rio Preto, Brazil, always learning & growing.
   <br><br>
   💻 I enjoy building UX-friendly websites, contributing to OSS projects & listening to music.
@@ -15,7 +15,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="35" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo"  />
@@ -23,7 +23,7 @@
 </div>
 
 ###
-<h4 align="left">🦖I have a foundational understanding of multiple programming languages and software, continuously expanding my skills and knowledge to improve my development expertise.</h4>
+<h4 align="center">🦖I have a foundational understanding of multiple programming languages and software, continuously expanding my skills and knowledge to improve my development expertise.</h4>
 <br clear="both">
 
 <div align="center">
@@ -52,7 +52,6 @@
 
 <br clear="both">
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rlzijog3nfepwwh6gqwn3lumeq&width={width})
 ###
 
 <div align="center">
