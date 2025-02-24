@@ -1,50 +1,69 @@
-<h1 align="center">Hi, I'm Maria! ✨</h1>
+<h1 align="center">Hi, I'm Leaf!</h1>
 
 <p align="center">
   <em>
-    Passionate about technology, web development, data science, and all things code. <br>
-    Here you'll find a bit of everything I'm learning and creating!
+***
   </em>
 </p>
 
 ---
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=leafwithf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
-       height="150" 
-       alt="GitHub Stats" 
-  />
-
-  <!-- Most Used Languages -->
-
-<img 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=leafwithf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" 
-       height="150" 
-       alt="Top Languages" 
-  />
-
+  
+<!-- GitHub Stats and Top Languages -->
+<div style="display: flex; align-items: center;">
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=leafwithf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
+        height="150" 
+        alt="GitHub Stats" 
+    />
+    <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=leafwithf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" 
+        height="150" 
+        alt="Top Languages" 
+    />
 </div>
 
-<!-- Fun GIF on the Right -->
 
+<!-- Fun GIF on the Right -->
 <img 
-     align="right" 
-     height="150" 
-     src="https://i.pinimg.com/originals/6f/b9/74/6fb9743af1895e492bb759e5b42ee4d3.gif" 
-     alt="Coding GIF" 
+    align="right" 
+    height="150" 
+    src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b7d693d4-547c-4e15-ba8d-d1e57692a6bc/d6fso2y-a1d44005-a031-4e15-9fdb-66990d6d4594.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9iN2Q2OTNkNC01NDdjLTRlMTUtYmE4ZC1kMWU1NzY5MmE2YmMvZDZmc28yeS1hMWQ0NDAwNS1hMDMxLTRlMTUtOWZkYi02Njk5MGQ2ZDQ1OTQuZ2lmIn1dXX0.-DdhU3Vm0kVuGCbGAwygfz6mx59Ty9mI_wQlECpdKDA" 
+    alt="Coding GIF" 
 />
+
+
+
+---
+
+### 📞 Contacts
+
+<div align="center">
+<a href="https://www.instagram.com/seuusuario" target="_blank" style="text-decoration: none; outline: none;">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="instagram logo" />
+</a>
+<a href="https://discord.com/users/seuusuario" target="_blank" style="text-decoration: none; outline: none;">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="35" alt="discord logo" />
+</a>
+<a href="mailto:seuemail@gmail.com" target="_blank" style="text-decoration: none; outline: none;">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo" />
+</a>
+<a href="https://www.linkedin.com/in/seuusuario" target="_blank" style="text-decoration: none; outline: none;">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo" />
+</a>
+
+</div>
 
 ---
 
 ### 🔧 Tech & Tools
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="15" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img width="12" />
@@ -54,9 +73,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
 </div>
 
 ---
@@ -84,7 +100,3 @@
 </p>
 
 ---
-
-<p align="center">
-  Desenvolvido com 💛 por <strong>@leaf</strong>.
-</p>
