@@ -1,11 +1,17 @@
 <h1 align="center">Hi, I'm Leaf! 🦖</h1>
 
 <!-- Presentation -->
-<div style="display: center;">
-  <p><i>Este é meu perfil no GitHub, onde compartilho projetos, coloco em prática meus conhecimentos em programação e continuo aprendendo. Explore minhas contribuições, reposições de código e as tecnologias que utilizo no meu dia a dia. Fique à vontade para conferir e até contribuir!</i></p>
-</div>
+<div style="display: center">
+  <p><i>
+    👨‍💻 Aspiring Fullstack Dev | 💻 Passionate about Data Science & Cybersecurity 
+    <br>
+    🎶 Music Lover | 🎮 FPS Gamer | 📺 Series & Movie Buff 
+    <br>
+   <strong>Coding my way through the future!</strong>
+  </i></p>
+  
+   <!-- GIF and caption -->
 
-  <!-- GIF e legenda -->
 <p align="right">
     <img  
         height="180" 
@@ -14,6 +20,7 @@
     />
     <p align="right"><i>This is Pipoca! (my cat)</i></p>
 </p>
+</div>
 
 ---
 
@@ -34,19 +41,19 @@
 ---
 
 <!-- Contacts -->
-<h3 align="center">📞 Formas de Contato</h3>
+<h3 align="center">📞 Contacts</h3>
 
 <div align="center">
-<a href="https://www.instagram.com/seuusuario" target="_blank" style="text-decoration: none; outline: none;">
+<a href="https://www.instagram.com/leaftwithf" target="_blank" style="text-decoration: none; outline: none;">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="instagram logo" />
 </a>
 <a href="https://discord.com/users/seuusuario" target="_blank" style="text-decoration: none; outline: none;">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="35" alt="discord logo" />
 </a>
-<a href="mailto:seuemail@gmail.com" target="_blank" style="text-decoration: none; outline: none;">
+<a href="mailto:rf7223216@gmail.com" target="_blank" style="text-decoration: none; outline: none;">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo" />
 </a>
-<a href="https://www.linkedin.com/in/seuusuario" target="_blank" style="text-decoration: none; outline: none;">
+<a href="https://www.linkedin.com/in/rafa-fernandes" target="_blank" style="text-decoration: none; outline: none;">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo" />
 </a>
 </div>
@@ -55,7 +62,7 @@
 
 <!-- Tech and Tools -->
 
-<h3 align="center">🔧 Tecnologias & Ferramentas</h3>
+<h3 align="center">🔧 Tech & Tools </h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
