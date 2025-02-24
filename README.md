@@ -11,7 +11,6 @@
   </i></p>
   
    <!-- GIF and caption -->
-
 <p align="right">
     <img  
         height="180" 
@@ -47,13 +46,10 @@
 <a href="https://www.instagram.com/leaftwithf" target="_blank" style="text-decoration: none; outline: none;">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="instagram logo" />
 </a>
-<a href="https://discord.com/users/seuusuario" target="_blank" style="text-decoration: none; outline: none;">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="35" alt="discord logo" />
-</a>
 <a href="mailto:rf7223216@gmail.com" target="_blank" style="text-decoration: none; outline: none;">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo" />
 </a>
-<a href="https://www.linkedin.com/in/rafa-fernandes" target="_blank" style="text-decoration: none; outline: none;">
+<a href="https://www.linkedin.com/in/rafa-fernandes-a9b944344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="text-decoration: none; outline: none;">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo" />
 </a>
 </div>
@@ -61,7 +57,6 @@
 ---
 
 <!-- Tech and Tools -->
-
 <h3 align="center">🔧 Tech & Tools </h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
