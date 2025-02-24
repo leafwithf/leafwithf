@@ -1,64 +1,90 @@
-<img align="center" height="150" src="https://user-images.githubusercontent.com/74038190/213910345-87a0070d-e6be-4864-b0a1-7e2133e3dae2.png"  />
+<h1 align="center">Hi, I'm Maria! ✨</h1>
 
-###
+<p align="center">
+  <em>
+    Passionate about technology, web development, data science, and all things code. <br>
+    Here you'll find a bit of everything I'm learning and creating!
+  </em>
+</p>
 
-<br clear="both">
-<h4 align="center">
-  👋 Hi! I'm Rafael, a web dev from São José do Rio Preto, Brazil, always learning & growing.
-  <br><br>
-  💻 I enjoy building UX-friendly websites, contributing to OSS projects & listening to music.
-  <br><br>
-  📬 Feel free to connect via email or social media!
-  <br><br>
-  🚀 Let’s build something amazing together! 
-</h4>
-
-###
+---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="35" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
+  <!-- GitHub Stats -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=leafwithf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
+       height="150" 
+       alt="GitHub Stats" 
+  />
+
+  <!-- Most Used Languages -->
+
+<img 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=leafwithf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" 
+       height="150" 
+       alt="Top Languages" 
+  />
+
 </div>
 
-###
-<h4 align="center">🦖I have a foundational understanding of multiple programming languages and software, continuously expanding my skills and knowledge to improve my development expertise.</h4>
-<br clear="both">
+<!-- Fun GIF on the Right -->
+
+<img 
+     align="right" 
+     height="150" 
+     src="https://i.pinimg.com/originals/6f/b9/74/6fb9743af1895e492bb759e5b42ee4d3.gif" 
+     alt="Coding GIF" 
+/>
+
+---
+
+### 🔧 Tech & Tools
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="40" alt="aftereffects logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
 </div>
 
-###
+---
 
-<br clear="both">
+### 🐍 Snake Animation
 
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayasrl/mayasrl/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 🎧 Currently Vibing
 
 <div align="center">
-  <img height="120" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
-</div>
 
-###
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rlzijog3nfepwwh6gqwn3lumeq&count=5)
 
+</div>
 
+---
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/leafthwithf/count.svg?" alt="Visitor Counter" />
+</p>
+
+---
+
+<p align="center">
+  Desenvolvido com 💛 por <strong>@leaf</strong>.
+</p>
