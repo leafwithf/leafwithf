@@ -2,13 +2,13 @@
 
 <!-- Presentation -->
 <div style="display: center">
-  <p><i>
+  <h2><i>
     👨‍💻 Aspiring Fullstack Dev | 💻 Passionate about Data Science & Cybersecurity 
     <br>
     🎶 Music Lover | 🎮 FPS Gamer | 📺 Series & Movie Buff 
     <br>
    <strong>Coding my way through the future!</strong>
-  </i></p>
+  </i></h2>
   
    <!-- GIF and caption -->
 <p align="right">
