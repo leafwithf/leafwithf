@@ -81,14 +81,6 @@
 
 ---
 
-<h3 align="center">🎧 On My Energy</h3>
-<div align="center">
-  
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rlzijog3nfepwwh6gqwn3lumeq&count=5)
-</div>
-
----
-
 <p align="center">
   <img src="https://profile-counter.glitch.me/leafthwithf/count.svg?" alt="Visitor Counter" />
 </p>
